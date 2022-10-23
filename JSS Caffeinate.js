@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name        JSS Caffeinate
+// @version     0.1
 // @description Simulates mousedown events every few minutes, to activate keepalive call of JSS
 // @match       https://<yourJssUrlWithoutPort>/*
+// @updateURL   https://github.com/fveja/JSSCaffeinate/raw/main/JSS%20Caffeinate.js
 // @noframes
 // Florin Veja 2022
 // ==/UserScript==
