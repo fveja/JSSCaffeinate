@@ -53,5 +53,5 @@ const café = setInterval(() => {
              debug("authToken expires in " + authExpiration())
              debug(last + " - " + start + "=" + (start - last))
              last = start
-             if (authExpiration < 1) { login() }
+             if (authExpiration() < 1) { login() }
            }, delay);
