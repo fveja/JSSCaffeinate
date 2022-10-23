@@ -20,12 +20,7 @@ jssCaffeinateDebug = false
 
 // function to send us back to the 
 const login = () => {
-  debug("loging in")
-  location = location.origin
-}
-
-const logout = () => {
-  debug("logging out")
+  debug("logging in")
   location = location.origin
 }
 
