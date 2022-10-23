@@ -16,7 +16,7 @@ var last = Date.now()
 const name = "JSS Caffeinate"
 
 // set to true for debug console output
-jssCaffeinateDebug = true
+jssCaffeinateDebug = false
 
 // function to send us back to the 
 const login = () => {
