@@ -16,7 +16,7 @@ var last = Date.now()
 const name = "JSS Caffeinate"
 
 // set to true for debug console output
-jssCaffeinateDebug = false
+const jssCaffeinateDebug = false
 
 // function to send us back to the 
 const login = () => {
@@ -42,7 +42,7 @@ const getDelay = (max) => {
 // if we are on the logout page, log back in
 // randomize to not create a race 
 if (location.pathname == '/logout.html') {
-  setTimeout(login(), getRandomInt(10000))
+  setTimeout(login(), getDelay(10000))
 }
 
 const café = setInterval(() => {
