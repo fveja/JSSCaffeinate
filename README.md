@@ -9,8 +9,11 @@ To use this, you'll need to load it in a userscript browser plugin.  See blow fo
 
 Once loaded, change the `// @match` line to match your JSS URL, but don't include a port number.
 
-##### Userscript Plugins
-[Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-[Tamper Monkey](https://www.tampermonkey.net) 
-[Userscripts](https://apps.apple.com/us/app/userscripts)
+### Userscript Plugins
+[Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)<br>
+[Tamper Monkey](https://www.tampermonkey.net)<br> 
+[Userscripts](https://apps.apple.com/us/app/userscripts)<br>
 Other
+
+## Change log
+* v 0.3 fixed a glitch a the debug flag was not initialized properly which made the script not run
