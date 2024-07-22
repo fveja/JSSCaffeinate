@@ -12,7 +12,7 @@ Once loaded, change the `// @match` line to match your JSS URL, but don't includ
 ### Userscript Plugins
 [Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)<br>
 [Tamper Monkey](https://www.tampermonkey.net)<br> 
-[Userscripts](https://apps.apple.com/us/app/userscripts)<br>
+[Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)<br>
 Other
 
 ## Change log
